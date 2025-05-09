@@ -1,2 +1,3 @@
 # .github
-Default health files for all of Suigar projects
+
+*Default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for all of my Suigar projects*
