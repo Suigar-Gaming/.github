@@ -1,6 +1,6 @@
-*Have you read the [Contributing Guidelines](https://github.com/suigar-gaming/.github/blob/master/CONTRIBUTING.md)?*
+<!-- *Have you read the [Contributing Guidelines](https://github.com/suigar-gaming/.github/blob/master/CONTRIBUTING.md)?* -->
 
-Issue #
+Closes #
 
 ## Describe your changes
 
